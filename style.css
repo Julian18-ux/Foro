@@ -1,6 +1,5 @@
-
-
-  body {
+/* styles.css */
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -8,59 +7,12 @@
     background-color: #f4f4f4;
     color: #333;
 }
-  form, #forum {
-    background: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  }
 
-  textarea{
-    width: 100%;
-    margin-bottom: 10px;
-    padding: 12px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
-
-
-button{
-  width: 100%;
-    margin-bottom: 10px;
-    padding: 12px;
-    border: 2px solid black;
-    border-radius: 4px;
-  
-  background: #00509e;
-  color:white;
-}
-
-input{
-  
-  width: 100%;
-    margin-bottom: 10px;
-  
-    height:50px;
-    width:100%;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  
-}
-
-  .hidden {
-    display: none;
-  }
-  
-  
-  
-  
-  header {
+header {
     background-color: #00509e;
     color: white;
-    padding: 20px 1vh;
+    padding: 10px 20px;
     text-align: center;
-    
-    
 }
 
 header nav a {
